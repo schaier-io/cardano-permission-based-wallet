@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Wallet">
+        <g id="Wallet-Outer" serif:id="Wallet Outer" transform="matrix(7.6961e-17,-1.37612,1.98804,1.53922e-16,-848.106,1269.18)">
+            <path d="M745.503,530.631L745.503,872.319C745.503,897.032 716.518,917.095 680.817,917.095L378.949,917.095C343.248,917.095 314.263,897.032 314.263,872.319L314.263,530.631C314.263,505.918 343.248,485.855 378.949,485.855L680.817,485.855C716.518,485.855 745.503,505.918 745.503,530.631Z" style="fill:rgb(16,0,120);stroke:url(#_Linear1);stroke-width:18.72px;"/>
+        </g>
+        <g id="Wallet-inner" serif:id="Wallet inner" transform="matrix(-1.62874,1.5693e-16,-4.53643e-16,-0.937835,1391.38,1233.01)">
+            <path d="M745.503,528.979L745.503,873.971C745.503,897.772 734.376,917.095 720.672,917.095L339.094,917.095C325.389,917.095 314.263,897.772 314.263,873.971L314.263,528.979C314.263,505.178 325.389,485.855 339.094,485.855L720.672,485.855C734.376,485.855 745.503,505.178 745.503,528.979Z" style="fill:rgb(76,0,241);stroke:url(#_Linear2);stroke-width:24.08px;"/>
+        </g>
+        <g id="Chain">
+            <g transform="matrix(-0.286196,1.92402e-17,-2.88604e-17,-0.165306,471.602,605.597)">
+                <path d="M745.503,636.789L745.503,766.161C745.503,849.464 706.439,917.095 658.324,917.095L401.442,917.095C353.326,917.095 314.263,849.464 314.263,766.161L314.263,636.789C314.263,553.486 353.326,485.855 401.442,485.855L658.324,485.855C706.439,485.855 745.503,553.486 745.503,636.789Z" style="fill:none;stroke:url(#_Linear3);stroke-width:68.46px;"/>
+            </g>
+            <g transform="matrix(0.282346,0,9.62012e-18,0.160275,248.506,412.853)">
+                <path d="M745.503,636.789L745.503,766.161C745.503,849.464 707.111,917.095 659.824,917.095L399.941,917.095C352.654,917.095 314.263,849.464 314.263,766.161L314.263,636.789C314.263,553.486 352.654,485.855 399.941,485.855L659.824,485.855C707.111,485.855 745.503,553.486 745.503,636.789Z" style="fill:none;stroke:url(#_Linear4);stroke-width:69.69px;"/>
+            </g>
+        </g>
+        <g id="Wallet-lock" serif:id="Wallet lock">
+            <g id="Wallet-lock1" serif:id="Wallet lock" transform="matrix(-0.458952,3.09566e-17,-4.61502e-17,-0.264019,1164.58,762.909)">
+                <path d="M745.503,572.103L745.503,830.847C745.503,878.448 723.271,917.095 695.887,917.095L363.878,917.095C336.495,917.095 314.263,878.448 314.263,830.847L314.263,572.103C314.263,524.501 336.495,485.855 363.878,485.855L695.887,485.855C723.271,485.855 745.503,524.501 745.503,572.103Z" style="fill:url(#_Linear5);"/>
+            </g>
+            <g id="Cardano" transform="matrix(0.214134,0,0,0.214134,712.955,448.573)">
+                <g transform="matrix(1.09425,0,0,1.09425,-286.042,-3.87268)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1.09425,0,0,1.09425,-297.822,17.2268)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1.09425,0,0,1.09425,-322.013,17.2712)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1.09425,0,0,1.09425,-334.008,-3.78284)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1.09425,0,0,1.09425,-321.935,-24.8542)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1.09425,0,0,1.09425,-298.179,-25.0102)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.6037,0,0,0.6037,203.972,244.505)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.6037,0,0,0.6037,204.239,286.094)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.6037,0,0,0.6037,168.093,306.981)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.6037,0,0,0.6037,132.756,286.613)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.6037,0,0,0.6037,132.341,245.363)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.6037,0,0,0.6037,168.217,224.104)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.502057,0,0,0.502057,294.247,274.706)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.502057,0,0,0.502057,321.188,321.332)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.502057,0,0,0.502057,321.188,321.332)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.502057,0,0,0.502057,294.332,368.153)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.502057,0,0,0.502057,240.575,368.181)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.502057,0,0,0.502057,213.764,321.68)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.502057,0,0,0.502057,240.424,274.982)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.445045,0,0,0.445045,323.081,286.774)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.445045,0,0,0.445045,379.992,319.645)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.445045,0,0,0.445045,379.946,385.476)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.445045,0,0,0.445045,323.073,419.13)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.445045,0,0,0.445045,265.913,386.143)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.445045,0,0,0.445045,265.908,319.651)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.344203,0,0,0.344203,384.669,345.043)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.344203,0,0,0.344203,457.766,344.519)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.344203,0,0,0.344203,494.395,407.874)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.344203,0,0,0.344203,458.173,471.457)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.344203,0,0,0.344203,385.273,471.401)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.344203,0,0,0.344203,348.615,408.529)">
+                    <circle cx="975.279" cy="549.364" r="9.364" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(431.24,0,0,431.24,314.263,701.475)"><stop offset="0" style="stop-color:rgb(204,216,240);stop-opacity:1"/><stop offset="0.44" style="stop-color:rgb(42,78,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(37,2,89);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(431.24,0,0,431.24,314.263,701.475)"><stop offset="0" style="stop-color:rgb(204,216,240);stop-opacity:1"/><stop offset="0.44" style="stop-color:rgb(42,78,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(37,2,89);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(431.24,0,0,431.24,314.263,701.475)"><stop offset="0" style="stop-color:rgb(204,216,240);stop-opacity:1"/><stop offset="0.44" style="stop-color:rgb(42,78,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(37,2,89);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(431.24,0,0,431.24,314.263,701.475)"><stop offset="0" style="stop-color:rgb(204,216,240);stop-opacity:1"/><stop offset="0.44" style="stop-color:rgb(42,78,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(37,2,89);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(431.24,0,0,431.24,314.263,701.475)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.48" style="stop-color:rgb(59,28,255);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(46,5,87);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
